@@ -1,4 +1,4 @@
-#Vamos ao teste!
+# Vamos ao teste!
 Imagine uma lista de compras. Ela possui:
 
 Itens
@@ -6,7 +6,7 @@ Itens
 - Preço por unidade/peso/pacote de cada item
 - Desenvolva uma função (ou método) que irá receber uma lista de compras (como a detalhada acima) e uma lista de e-mails. Aqui, cada e-mail representa uma pessoa.
 
-##A função deve:
+## A função deve:
 
 - Calcular a soma dos valores, ou seja, multiplicar o preço de cada item por sua quantidade e somar todos os itens
 - Dividir o valor de forma igual entre a quantidade de e-mails
